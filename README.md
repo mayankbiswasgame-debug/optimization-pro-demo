@@ -74,9 +74,14 @@ This project helps developers:
 
 ---
 
+## 👨‍💻 Author
+Mayank Biswas
+
+---
+
 ## 🚀 Live Demo
 
-(Add your GitHub Pages link here)
+👉 file:///C:/Users/Mayank/OneDrive/Desktop/index.html
 
 ---
 
