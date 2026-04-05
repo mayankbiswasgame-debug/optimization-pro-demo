@@ -81,7 +81,7 @@ Mayank Biswas
 
 ## 🚀 Live Demo
 
-👉 file:///C:/Users/Mayank/OneDrive/Desktop/index.html
+👉 https://mayankbiswasgame-debug.github.io/optimization-pro-demo/
 
 ---
 
